@@ -1,6 +1,5 @@
 //string
-#include<iostream>
-#include<cstring>
+#include<bits/stdc++.h>
 using namespace std;
 int main()
 { char a[20];
